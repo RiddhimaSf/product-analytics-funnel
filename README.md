@@ -1,7 +1,7 @@
 
 # 🧭 User Journey Health Dashboard
 
-A product analytics case study simulating how Meta’s product data science team might analyze user behavior across a funnel. This project models a typical user journey—Signup → Follow → Content Creation → Retention —using simulated data to track engagement, identify drop-offs, and support data-driven product decisions.
+A product analytics case study simulating how a company's product data science team might analyze user behavior across a funnel. This project models a typical user journey—Signup → Follow → Content Creation → Retention —using simulated data to track engagement, identify drop-offs, and support data-driven product decisions.
 
 ---
 
@@ -59,6 +59,6 @@ meta-user-journey-dashboard/
 
 ## 🔗 Preview / Use Case
 
-This project showcases end-to-end product analytics capabilities and is designed to simulate real-world decision support at Meta. It can be used as part of a technical portfolio or job application.
+This project showcases end-to-end product analytics capabilities and is designed to simulate real-world decision support at a product company. It can be used as part of a technical portfolio or job application.
 
 
